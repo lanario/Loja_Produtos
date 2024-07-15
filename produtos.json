@@ -1,0 +1,12 @@
+[
+    {
+        "nome": "Acer Nitro 5",
+        "preco": 3000.0,
+        "desconto": 0.001
+    },
+    {
+        "nome": "Versace Dylan Blue",
+        "preco": 300.0,
+        "desconto": 0.05
+    }
+]
